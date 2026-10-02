@@ -1,0 +1,6 @@
+{
+  "name": "ENGLISH QUIZ — Learn English, Test Your Skills",
+  "description": "Interactive English learning and quiz platform with CEFR levels A1-C2, AI English Teacher, vocabulary builder, grammar lessons, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
